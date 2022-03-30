@@ -6,6 +6,18 @@ using System.Threading.Tasks;
 
 namespace Connect_4
 {
+   public virtual class player1{
+        char 'x';
+       public  void OnClick(){
+        
+       }
+    }
+      public override class player2{
+        char 'o';
+           public  void OnClick(){
+        
+       }
+    }
     
 
     class Gameboard
